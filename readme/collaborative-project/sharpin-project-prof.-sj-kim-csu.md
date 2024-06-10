@@ -15,9 +15,13 @@
 
 
 
+## 240610
+
+1. Ready to RNA-seq&#x20;
+
 ## 240527
 
-1. scRNAseq datadown
+1. scRNA-seq datadown (Complemte)
    * GEO Data([GSE183904](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE183904))
-2. RNAseq reanalysis
-   * GDLWulf
+2. RNA-seq reanalysis (In Preparation)
+   * In GDLWulf
