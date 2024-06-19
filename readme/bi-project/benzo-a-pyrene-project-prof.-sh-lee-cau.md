@@ -11,7 +11,7 @@ description: "w/ JH kim (\bGB0001)"
 <summary>Project Information</summary>
 
 1. Mus Musculus
-   * WT-F1 / F2 / F3
+   * WT-F1(BaP) / F2 / F3
 2. Data
    * RRBS(Sperm) / RNAseq(Brain-HP)
 
