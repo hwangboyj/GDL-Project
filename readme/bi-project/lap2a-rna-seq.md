@@ -22,7 +22,8 @@ description: W ARA Jo
 
 1. 작업 위치: mnt/Infotrend/Lap2aproject&#x20;
    * 팀장님 우선 분석 진행 후, 매칭
-2. Bash test 함께 진행
+2. Mastertable 진행
+3. Bash test 함께 진행
 
 ## 240621&#x20;
 
