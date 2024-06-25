@@ -19,6 +19,16 @@ description: "w/ JH kim (\bGB0001)"
 
 
 
+## 240624 BImeeting
+
+1. PPT 수정
+   * RRBS F1/F2/F3 intersection Hyper/Hypo GO 추가
+   * Figure 수정: Pie chart
+   * Method: 분석 내용 및 방법 추가
+   * RNA-seq GO 추가
+
+
+
 ## 240523 Labmeeting
 
 1. Model Figure
