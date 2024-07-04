@@ -17,6 +17,15 @@ description: "w/ JH kim (\bGB0001)"
 
 </details>
 
+## 240703 Meeting w/이성훈 교수님
+
+1. Paper 준비 시작
+   * 연구실 별 파트 분담하여 논문 작업 진행&#x20;
+   * Target Journal: Nature Genetics/Environmental chemistry letter letters/Journal of Hazardous Materials  등
+2.  Final figure
+
+    * 분석 code 정리하여 팀장님께 전달&#x20;
+
 
 
 ## 240624 BImeeting
