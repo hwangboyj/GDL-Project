@@ -18,6 +18,12 @@ description: W ARA Jo
 
 </details>
 
+## 240703 meeting w/아라
+
+1. Mastertable(Trascript) 전달 완료: Full table/15% table/ 0.3% table
+2. Mouse-Human Gene matching
+   * Gene level에서 가능: 현재 Trans level로 분석하고 있기 때문에, 어려울 것으로 예상 > 아라와 논의 필요
+
 ## 240624 BImeeting
 
 1. 작업 위치: mnt/Infotrend/Lap2aproject&#x20;
