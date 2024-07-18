@@ -18,11 +18,15 @@ description: W ARA Jo
 
 </details>
 
+## 240712 meeting w/아라
+
+1. 15%, 0.3% 기본 Plots 전달&#x20;
+
 ## 240703 meeting w/아라
 
-1. ~~Mastertable(Trascript) 전달 완료: Full table/15% table/ 0.3% table~~ > MT 이슈로 0708 재전송, Full table의 경우, 디자인이 확정되지 않아서 각각 따로 분석 예정(7월 12일 오후 2시 미팅 예정)
+1. ~~Mastertable(Trascript) 전달 완료: Full table/15% table/ 0.3% table~~ > MT 이슈로 0708 재전송, ~~Full table의 경우, 디자인이 확정되지 않아서 각각 따로 분석 예정(7월 12일 오후 2시 미팅)~~
 2. Mouse-Human Gene matching
-   * Gene level에서 가능: 현재 Trans level로 분석하고 있기 때문에, 어려울 것으로 예상 > 아라와 논의 필요
+   * ~~Gene level에서 가능: 현재 Trans level로 분석하고 있기 때문에, 어려울 것으로 예상 > 아라와 논의 필요 (이슈 전달 완료)~~
 
 ## 240624 BImeeting
 
