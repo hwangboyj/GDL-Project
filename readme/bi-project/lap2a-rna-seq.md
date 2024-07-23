@@ -18,6 +18,14 @@ description: W ARA Jo
 
 </details>
 
+## 240723 meeting w/아라
+
+Old/HGPS Gene intersection
+
+* Young 대비 Old/HGPS Up/Dn
+
+
+
 ## 240712 meeting w/아라
 
 1. 15%, 0.3% 기본 Plots 전달&#x20;
